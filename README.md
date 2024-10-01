@@ -1,0 +1,8 @@
+#Instructions
+1- Prueba a usar describe para agrupar tus tests sencillos tipo suma / resta
+2- Mirate el vídeo de ayer (Midudev) y prueba a copiar el testing sobre la media de números en un array (usa también el método 'describe '):
+Es el minuto 22:20. Este es el enlace directo:
+https://www.youtube.com/watch?v=_DzBez4qMi0&t=1340s
+3- Como harías un test para preguntar un lenght de un array?
+4- Prueba el toThrow en el testing. Te sale?
+Recuerda que hay mucha información en la documentación de la API de Jest!
